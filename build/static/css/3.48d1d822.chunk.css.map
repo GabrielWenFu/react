@@ -1,0 +1,1 @@
+{"version":3,"sources":["/Users/hexiaofeng/react/src/pages/home/home.module.scss"],"names":[],"mappings":"AAAA,uBACE,aAAkB,CADpB,2CAGM,cAAe","file":"3.48d1d822.chunk.css","sourcesContent":[".huangbiao{\n  color: greenyellow;\n  .liumei{\n      font-size: 45px;\n  }\n}"]}
